@@ -1,6 +1,8 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HRDepartment", "HRDepartment\HRDepartment.csproj", "{3924BDBC-5632-4BC4-BCD7-65ADC54DC8BF}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HRDepartment.ConsoleUI", "HRDepartment.ConsoleUI\HRDepartment.ConsoleUI.csproj", "{3924BDBC-5632-4BC4-BCD7-65ADC54DC8BF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HRDepartment.Domain", "HRDepartment.Domain\HRDepartment.Domain.csproj", "{F16B08DE-40FD-4C4E-A80B-7D46CC96996C}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -12,5 +14,9 @@ Global
 		{3924BDBC-5632-4BC4-BCD7-65ADC54DC8BF}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{3924BDBC-5632-4BC4-BCD7-65ADC54DC8BF}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{3924BDBC-5632-4BC4-BCD7-65ADC54DC8BF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F16B08DE-40FD-4C4E-A80B-7D46CC96996C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F16B08DE-40FD-4C4E-A80B-7D46CC96996C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F16B08DE-40FD-4C4E-A80B-7D46CC96996C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F16B08DE-40FD-4C4E-A80B-7D46CC96996C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
